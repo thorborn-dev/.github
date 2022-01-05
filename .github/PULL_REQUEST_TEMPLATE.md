@@ -29,3 +29,6 @@ Yes, ensured with all the following browsers:
 - [ ] Safari, mobile _(use [browserstack](https://www.browserstack.com/) if you do not own an iPhone)_
 - [ ] Chrome, desktop
 - [ ] Firefox, desktop
+
+#### Code Reviewer
+- [ ] I have reviewed this code according to our Documentation ([things you should always check](https://www.notion.so/thorborn/Dinge-die-man-immer-checken-sollte-f1d2ddf4a3e848a79197d1cf505ba7a6))
