@@ -16,6 +16,9 @@
 - [Storefront](url)
 - [Editor](url) _(remove if there are no settings that can be adjusted!)_
 - [Optimize/Kameleoon](url) _(remove if it's not an experiment!)_
+- [Dokumentation](url)
+- [Testing Plan](url)
+
 
 ### Checklists
 
