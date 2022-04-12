@@ -1,38 +1,31 @@
-### Screenshots
+### Summary
 
-...
+_Please include a short description (using non-technical terms, 1-2 sentences) about the changes you are introducing and/or what problem is being fixed._
 
 ### Why are these changes introduced?
 
-...
+_Give context to help reviewers fully understand your changes._
 
 ### What approach did you take?
 
-...
+_What approach did you take, and why? Were there any other approaches you considered using, and why did you decide to drop them?_
 
-### Links
+### Testing steps/scenarios
 
-- [Jira Issue](url)
-- [Storefront](url)
-- [Editor](url) _(remove if there are no settings that can be adjusted!)_
-- [Optimize/Kameleoon](url) _(remove if it's not an experiment!)_
-- [Documentation](url) _(remove if there is no documentation!)_
-- [Testing Plan](url) _(remove if there is no testing plan!)_
+_List all testing steps/scenarios you checked and help peers to review your changes._
 
+### Demo Links
 
-### Checklists
+_Please provide necessary links to allow reviewers to easily test your changes. Remove any link placeholders that are not needed._
 
-- [ ] No linting issues (eslint, stylelint)
-- [ ] Code formatted correctly (prettier)
+- [Store](URL)
+- [Editor](URL)
+- [A/B Test Editor](URL)
+- [Documentation](URL)
 
-##### Did you test this feature on all browsers we support?
+### Checklist
 
-Yes, ensured with all the following browsers:
-
-- [ ] Safari, mobile _(use [browserstack](https://www.browserstack.com/) if you do not own an iPhone)_
-- [ ] Chrome, desktop
-- [ ] Firefox, desktop
-
-#### Code Reviewer
-
-- [ ] I have carefully reviewed this PR according to our documentation (esp.: [things you should always check](https://www.notion.so/thorborn/Dinge-die-man-immer-checken-sollte-f1d2ddf4a3e848a79197d1cf505ba7a6))
+- [ ] Followed [code principles](https://www.notion.so/thorborn/Programming-Principles-1d59be6612274f93bfdbf91e1240a4fe)
+- [ ] Fixed any linting issues
+- [ ] Tested multiple browsers on [desktop](https://www.notion.so/thorborn/QA-Overview-414f4932f93b459b882b831117531d2b#51084fae0ad4485781165895c2f35d96)
+- [ ] Tested multiple browsers on [mobile](https://www.notion.so/thorborn/QA-Overview-414f4932f93b459b882b831117531d2b#c3d78ba52d904a8fa2699455df6a3078)
