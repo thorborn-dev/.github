@@ -4,7 +4,7 @@ _Please include a short description (using non-technical terms, 1-2 sentences) a
 
 ### Why are these changes introduced?
 
-_Give context to help reviewers fully understand your changes._
+_Give context to help reviewers fully understand your changes. (Just link the Jira Story if exists: e.g. "Implements [FOO-123](URL)")._
 
 ### What approach did you take?
 
