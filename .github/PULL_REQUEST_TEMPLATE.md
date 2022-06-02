@@ -1,22 +1,36 @@
 ### Summary
 
-_Please include a short description (using non-technical terms, 1-2 sentences) about the changes you are introducing and/or what problem is being fixed._
+<!--
+  Please include a short description (using non-technical terms, 1-2 sentences)
+  about the changes you are introducing and/or what problem is being fixed.
+-->
 
 ### Why are these changes introduced?
 
-_Give context to help reviewers fully understand your changes. (Just link the Jira Story if exists: e.g. "Implements [FOO-123](URL)")._
+<!--
+  Give context to help reviewers fully understand your changes.
+  (Just link the Jira Story if exists: e.g. "Implements [FOO-123](URL)").
+-->
 
 ### What approach did you take?
 
-_What approach did you take, and why? Were there any other approaches you considered using, and why did you decide to drop them?_
+<!--
+  What approach did you take, and why? Were there any other approaches
+  you considered using, and why did you decide to drop them?
+-->
 
 ### Testing steps/scenarios
 
-_List all testing steps/scenarios you checked and help peers to review your changes._
+<!--
+  List all testing steps/scenarios you checked and help peers to review your changes.
+-->
 
 ### Demo Links
 
-_Please provide necessary links to allow reviewers to easily test your changes. Remove any link placeholders that are not needed._
+<!--
+  Please provide necessary links to allow reviewers to easily test your changes.
+  Remove any link placeholders that are not needed.
+-->
 
 - [Store](URL)
 - [Editor](URL)
