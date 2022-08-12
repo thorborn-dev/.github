@@ -41,5 +41,4 @@
 
 - [ ] Followed [code principles](https://www.notion.so/thorborn/Programming-Principles-1d59be6612274f93bfdbf91e1240a4fe)
 - [ ] Fixed any linting issues
-- [ ] Tested multiple browsers on [desktop](https://www.notion.so/thorborn/QA-Overview-414f4932f93b459b882b831117531d2b#51084fae0ad4485781165895c2f35d96)
-- [ ] Tested multiple browsers on [mobile](https://www.notion.so/thorborn/QA-Overview-414f4932f93b459b882b831117531d2b#c3d78ba52d904a8fa2699455df6a3078)
+- [ ] Tested changes on [relevant platforms](https://www.notion.so/thorborn/Supported-devices-resolutions-browsers-414f4932f93b459b882b831117531d2b)
