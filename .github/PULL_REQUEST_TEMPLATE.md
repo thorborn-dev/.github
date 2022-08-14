@@ -8,7 +8,6 @@
   "This PR adds component xyz."
 -->
 
-
 ### Why are these changes introduced?
 
 <!--
